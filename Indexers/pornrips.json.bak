@@ -1,0 +1,26 @@
+[
+  {
+    "id": "sitelink",
+    "type": "inputstring",
+    "name": "Site Link",
+    "value": "https://prips.gameszonehub.workers.dev/"
+  },
+  {
+    "id": "cookieheader",
+    "type": "hiddendata",
+    "name": "CookieHeader",
+    "value": ""
+  },
+  {
+    "id": "lasterror",
+    "type": "hiddendata",
+    "name": "LastError",
+    "value": "Exception (pornrips): certificate validation failed: [Subject]\r\n  CN=pornrips.to\r\n\r\n[Issuer]\r\n  E=support@fortinet.com, CN=FG4H0FT923902368, OU=Certificate Authority, O=Fortinet, L=Sunnyvale, S=California, C=US\r\n\r\n[Serial Number]\r\n  37E5C3967C9E653EC2B31B8EDDC020CCC19886F8\r\n\r\n[Not Before]\r\n  11/22/2024 9:45:03 AM\r\n\r\n[Not After]\r\n  2/20/2025 9:45:02 AM\r\n\r\n[Thumbprint]\r\n  B263DEDA1D244DE415D5ED41CF9523EE2E67EA9E\r\n: The SSL connection could not be established, see inner exception."
+  },
+  {
+    "id": "tags",
+    "type": "inputtags",
+    "name": "Tags",
+    "value": ""
+  }
+]
